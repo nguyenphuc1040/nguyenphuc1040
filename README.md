@@ -30,11 +30,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Games Published
 
-<a href = "https://play.google.com/store/apps/dev?id=6990335718751691198">
+<a  href = "https://play.google.com/store/apps/dev?id=6990335718751691198" target="_blank">
   <img src="http://img.shields.io/badge/-Google Play-0ba18d?style=flat-square&logo=googleplay&logoColor=ffffff"/>
   
 </a>
-<a href ="https://pirex-universe.vercel.app">
+<a href ="https://pirex-universe.vercel.app" target="_blank">
    <img src="http://img.shields.io/badge/-Pirex Games-000000?style=flat-square&logo=pirex&logoColor=ffffff"/>
 </a>
  
@@ -44,8 +44,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ### Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/nguyenphuc1040"><img src="https://img.shields.io/badge/-nguyenphuc1040-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:nguyenphuc1040@outlook.com"><img src="https://img.shields.io/badge/-nguyenphuc1040@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://facebook.com/nguyenphuc1040"><img src="https://img.shields.io/badge/-nguyenphuc1040-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a target="_blank" href="https://linkedin.com/in/nguyenphuc1040"><img src="https://img.shields.io/badge/-nguyenphuc1040-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a target="_blank" href="mailto:nguyenphuc1040@outlook.com"><img src="https://img.shields.io/badge/-nguyenphuc1040@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://facebook.com/nguyenphuc1040"><img src="https://img.shields.io/badge/-nguyenphuc1040-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   <!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
