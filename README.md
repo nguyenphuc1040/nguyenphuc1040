@@ -1,16 +1,38 @@
-### Hi there 👋
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=nguyenphuc1040&repo=nguyenphuc1040&countColorcountColor&countColor=%e3303c"/>
 
-<!--
-**nguyenphuc1040/nguyenphuc1040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Hi , I'm Nguyen Phuc
 
-Here are some ideas to get you started:
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuc1040&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+### Languages and Tools
+
+![Unity](http://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=ffffff)
+![C#](http://img.shields.io/badge/-Csharp-9a24d1?style=flat-square&logo=csharp&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C++-2494d1?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+### &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://pirex-universe.vercel.app/"><img src="https://img.shields.io/badge/-PirexGames-000000?style=flat&logo=P&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nguyenphuc1040"><img src="https://img.shields.io/badge/-nguyenphuc1040-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:nguyenphuc1040@outlook.com"><img src="https://img.shields.io/badge/-nguyenphuc1040@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/nguyenphuc1040"><img src="https://img.shields.io/badge/-nguyenphuc1040-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
+</p>
