@@ -54,5 +54,3 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <a target="_blank" href="https://facebook.com/nguyenphuc1040"><img src="https://img.shields.io/badge/-nguyenphuc1040-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   <!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
-
-<audio id="ABC" source src="./iphone_5s_5c.mp3"></audio><button onclick="playAudio('ABC')" type="button">play</button>
