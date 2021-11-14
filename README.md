@@ -1,6 +1,10 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=nguyenphuc1040&repo=nguyenphuc1040&countColorcountColor&countColor=%be261c"/>
 
-###  Hi , I'm Nguyen Phuc
+
+###  Hi , I'm Nguyen Phuc - A Game Programmer
+
+<img src="./gamedev.gif"/>
+
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
