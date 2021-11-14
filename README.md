@@ -5,7 +5,9 @@
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuc1040&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuc1040&layout=compact)
+
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -30,22 +32,21 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Games Published
 
-<a  href = "https://play.google.com/store/apps/dev?id=6990335718751691198" target="_blank">
-  <img src="http://img.shields.io/badge/-Google Play-0ba18d?style=flat-square&logo=googleplay&logoColor=ffffff"/>
-  
-</a>
-<a href ="https://pirex-universe.vercel.app" target="_blank">
-   <img src="http://img.shields.io/badge/-Pirex Games-000000?style=flat-square&logo=pirex&logoColor=ffffff"/>
-</a>
+<p>
+  <a target="_blank" href="https://play.google.com/store/apps/dev?id=6990335718751691198"><img src="https://img.shields.io/badge/-nguyenphuc1040-08c271?style=flat&logo=GooglePlay&logoColor=white"/></a>
+  <a target="_blank" href="https://pirex-universe.vercel.app"><img src="https://img.shields.io/badge/-PirexGames-d13126?style=flat&logo=none&logoColor=white"/></a>
+</p>
+
  
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ### Connect with Me
 
-<p align="left">
+<p>
   <a target="_blank" href="https://linkedin.com/in/nguyenphuc1040"><img src="https://img.shields.io/badge/-nguyenphuc1040-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a target="_blank" href="mailto:nguyenphuc1040@outlook.com"><img src="https://img.shields.io/badge/-nguyenphuc1040@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a target="_blank" href="mailto:nguyenphuc1040@outlook.com"><img src="https://img.shields.io/badge/-nguyenphuc1040@outlook.com-4287f5?style=flat&logo=Microsoft&logoColor=white"/></a>
+  <a target="_blank" href="mailto:nguyenphuc.it14@gmail.com"><img src="https://img.shields.io/badge/-nguyenphuc.it14@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a target="_blank" href="https://facebook.com/nguyenphuc1040"><img src="https://img.shields.io/badge/-nguyenphuc1040-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   <!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
