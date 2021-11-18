@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-### Connect with Me
+### Connect to Me
 
 <p>
   <a target="_blank" href="https://linkedin.com/in/nguyenphuc1040"><img src="https://img.shields.io/badge/-nguyenphuc1040-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
