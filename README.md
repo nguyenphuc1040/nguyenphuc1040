@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p>
   <a target="_blank" href="https://play.google.com/store/apps/dev?id=6990335718751691198"><img src="https://img.shields.io/badge/-nguyenphuc1040-08c271?style=flat&logo=GooglePlay&logoColor=white"/></a>
-  <a target="_blank" href="https://pirex-universe.vercel.app"><img src="https://img.shields.io/badge/-PirexGames-d13126?style=flat&logo=none&logoColor=white"/></a>
+  <a target="_blank" href="https://pirex.vercel.app"><img src="https://img.shields.io/badge/-PirexGames-d13126?style=flat&logo=none&logoColor=white"/></a>
 </p>
 
  
