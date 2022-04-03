@@ -3,33 +3,34 @@
 
 ###  Hi , I'm Nguyen Phuc - A Game Programmer
 
-<img src="./gamedev.gif"/>
+<img src="./gamedev.gif" style="color: #00b185; font-size: 18px;"/>
 
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuc1040&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuc1040&layout=compact&langs_count=8)
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ### Languages and Tools
 
-![Unity](http://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=ffffff)
-![C#](http://img.shields.io/badge/-Csharp-9a24d1?style=flat-square&logo=csharp&logoColor=ffffff)
-![C++](http://img.shields.io/badge/-C++-2494d1?style=flat-square&logo=cplusplus&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Android](http://img.shields.io/badge/-Android-08c271?style=flat-square&logo=android&logoColor=ffffff)
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) -->
+![Unity](http://img.shields.io/badge/-Unity-20232A?style=flat&logo=unity&logoColor=ffffff)
+![C#](http://img.shields.io/badge/-Csharp-9a24d1?style=flat&logo=csharp&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C++-2494d1?style=flat-&logo=cplusplus&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-&logo=visual-studio-code&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-&logo=windows&logoColor=ffffff)
+![Android](http://img.shields.io/badge/-Android-08c271?style=flat-&logo=android&logoColor=ffffff)
+![React](http://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![ReactNative](http://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Typescript](http://img.shields.io/badge/-Typescript-0078D6?style=flat-&logo=typescript&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-&logo=css3)
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -37,8 +38,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ### Games Published
 
 <p>
+  <a target="_blank" href="https://pirex-universe.vercel.app"><img src="https://img.shields.io/badge/-PirexGames-d13126?style=flat&logo=itch.io&logoColor=white"/></a>
   <a target="_blank" href="https://play.google.com/store/apps/dev?id=6990335718751691198"><img src="https://img.shields.io/badge/-nguyenphuc1040-08c271?style=flat&logo=GooglePlay&logoColor=white"/></a>
-  <a target="_blank" href="https://pirex-universe.vercel.app"><img src="https://img.shields.io/badge/-PirexGames-d13126?style=flat&logo=none&logoColor=white"/></a>
 </p>
 
  
