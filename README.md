@@ -1,7 +1,7 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=nguyenphuc1040&repo=nguyenphuc1040&countColorcountColor&countColor=%be261c"/>
 
 
-##  Hi , I'm Nguyen Phuc - A Game Programmer
+##  Hi , I'm Nguyen Phuc - A Game Developer
 
 
 [![-----------------------------------------------------](
